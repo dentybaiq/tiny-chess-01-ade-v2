@@ -1,6 +1,6 @@
 [![make.fun](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
-[![rank](https://make.fun/badge/dentybaiq/tiny-chess-01-ade-v2/rank.svg)](https://make.fun/bounty/tiny-chess-01)
-[![reward](https://make.fun/badge/dentybaiq/tiny-chess-01-ade-v2/reward.svg)](https://make.fun/bounty/tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/dentybaiq/tiny-chess-01-ade-v2/rank.svg)](https://make.fun/bounty/tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/dentybaiq/tiny-chess-01-ade-v2/reward.svg)](https://make.fun/bounty/tiny-chess-01)
 
 # Tiny Chess — Ade v2
 
